@@ -10,7 +10,7 @@ Dentre as várias funções da água no organismo, pode-se mencionar:
 
 🔹 Transporte e absorção de nutrientes;
 
-🔹 Auxilia a desintoxicação do corpo;
+🔹 Auxilia na desintoxicação do corpo;
 
 🔹 Regulação da temperatura corporal.
 
