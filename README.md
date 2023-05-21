@@ -1,6 +1,6 @@
 # Água Ideal
 
-💧 **_Água ideal_** é um projeto cujo objetivo é desenvolver uma calculadora que forneça o resultada quantia aproximada de água que cada pessoa deve consumir diariamente 💧
+💧 **_Água ideal_** é um projeto cujo objetivo é desenvolver uma calculadora que forneça como resultado a quantia aproximada de água que cada pessoa deve consumir diariamente 💧
 
 ### Constituição do corpo humano
 🔹Cerca de 70% do corpo humano é composto de água. A água está presente no sangue, pulmões, cérebro, entre outros.
@@ -10,7 +10,7 @@ Dentre as várias funções da água no organismo, pode-se mencionar:
 
 🔹 Transporte e absorção de nutrientes;
 
-🔹 Auxilia na desintoxicação do corpo;
+🔹 Auxílio na desintoxicação do corpo;
 
 🔹 Regulação da temperatura corporal.
 
@@ -22,4 +22,4 @@ Dentre as várias funções da água no organismo, pode-se mencionar:
 
 **Exemplo:**
 
-🔹Se uma pessoa pesa 65Kg, deve tomar corca de 2, 27 Litros de água por dia. Pois: _65 x 35 = 2,27L_
+🔹Se uma pessoa pesa 65Kg, deve tomar cerca de 2, 27 Litros de água por dia. Pois: _65 x 35 = 2,27L_
